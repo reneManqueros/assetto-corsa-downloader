@@ -1,0 +1,7 @@
+{
+  "cookie_csrf": "",
+  "cookie_user": "",
+  "cookie_session": "",
+  "max_downloads": 4,
+  "download_folder": "downloads"
+}
